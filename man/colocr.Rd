@@ -3,7 +3,6 @@
 \docType{package}
 \name{colocr}
 \alias{colocr}
-\alias{colocr-package}
 \title{\code{colocr}: Conduct Co-localization Analysis of Microscopy Images.}
 \description{
 Automate the co-localization analysis of fluorescence microscopy images.
